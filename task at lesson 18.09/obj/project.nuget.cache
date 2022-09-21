@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7DlqwDMG61MT7qyXoiU5LgNCQ0fjFXstz+QoIWCEp22cfDtOsDNrvPKoafd7B1kKMElW6V7Hh9C93x6zcHggQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\task at lesson 18.09 JSON, DISPOSE\\task at lesson 18.09\\task at lesson 18.09.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
